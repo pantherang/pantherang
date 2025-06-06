@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🎓 **Education**  
+-  MS in Electronic Information, 2025 — *Sun Yat-sen University*  
+-  BSc in Science, 2022 — *Sun Yat-sen University*
+
 <!--
 **pantherang/pantherang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
